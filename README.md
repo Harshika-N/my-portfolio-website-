@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer Science Engineering Student with a strong interest in software development and problem solving. I enjoy learning new technologies and applying them to solve real-world Challenges through projects.
+I am a Computer Science Engineering Student with a strong interest in software development and problem solving. I enjoy learning new technologies and applying them to solve real-world Challenges through projects.
 
 
 ## 🌐 Socials:
