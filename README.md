@@ -11,12 +11,15 @@ Modern layout using Flexbox and Grid
 ***Sections included:***
 
 About Me
+
 Projects
+
 Contact
 
 ***Technologies Used***
 
 HTML5
+
 CSS3
 
 ***Responsive Web Design***
@@ -28,6 +31,7 @@ Email: harshikan24cs@rnsit.ac.in
 LinkedIn: https://www.linkedin.com/in/harshika-n-0513a4379
 
 GitHub: https://github.com/Harshika-N
+
 
 
 
