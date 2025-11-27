@@ -24,7 +24,10 @@ CSS3
 **Connect With Me**
 
 Email: harshikan24cs@rnsit.ac.in
+
 LinkedIn: https://www.linkedin.com/in/harshika-n-0513a4379
+
 GitHub: https://github.com/Harshika-N
+
 
 
